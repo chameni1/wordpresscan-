@@ -102,5 +102,3 @@ elif selone =='0':
 else:
     cmseek.error("Invalid Input!")
     
-if __name__ == '__main__':
-    start_server(app, port=36535, debug=True)
